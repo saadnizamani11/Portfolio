@@ -61,3 +61,8 @@ main{
 .maininfo span{
     color: skyblue;
 }
+footer{
+    width: auto;
+    height: auto;
+    background-color: wheat;
+}
